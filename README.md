@@ -1,2 +1,2 @@
 Software Engineering Project – Toll Interoperability System
-Ανάπτυξη πληροφοριακού συστήματος για διαλειτουργικότητα διοδίων: σχεδίαση αρχιτεκτονικής, REST API, CLI & web app, ανάλυση απαιτήσεων και data analytics.
+Development of an information system for toll interoperability: architecture design, REST API, CLI & web application, requirements analysis, and data analytics.
